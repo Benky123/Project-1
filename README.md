@@ -30,7 +30,7 @@ There is one notebooks available here to showcase work related to the above ques
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@benkyzhang123/alcohol-consumption-d6347d4db338).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
